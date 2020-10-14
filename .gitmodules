@@ -1,0 +1,3 @@
+[submodule "airfleet"]
+	path = airfleet
+	url = https://github.com/Weltgeist/airfleet.git
